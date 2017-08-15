@@ -1,5 +1,4 @@
 # hello-world
-hello world!
 (Ba-ba-ba, Ba-banana. Ba-ba-ba, Ba-banana.)
 Bananaaaahhh!!! Potato naaaaahhhh! Bananaaaahhh!!
 Togali no potato ni gani balo banika no jiga. Ba-ba, ba-banana.
